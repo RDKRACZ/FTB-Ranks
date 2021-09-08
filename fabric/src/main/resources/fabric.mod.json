@@ -8,6 +8,7 @@
 		"LatvianModder"
 	],
 	"contact": {
+		"homepage": "https://www.curseforge.com/minecraft/mc-mods/ftb-ranks-fabric",
 		"sources": "https://github.com/FTBTeam/FTB-Ranks",
 		"issues": "https://github.com/FTBTeam/FTB-Ranks/issues"
 	},
